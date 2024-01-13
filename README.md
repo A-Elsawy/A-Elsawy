@@ -13,7 +13,7 @@ Welcome to my coding space! I'm a passionate Flutter developer 🚀 currently na
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/ahmedelsawy566">
+  <a href="www.linkedin.com/in/ahmedelsawy566" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" style="margin-right: 15px;" />
   </a>
   <a href="mailto:aelsawt566@gmail.com" target="_blank">
