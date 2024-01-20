@@ -7,7 +7,7 @@ Welcome to my coding space! I'm a passionate Flutter developer 🚀 currently na
 ## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,photoshop,xd,figma,vscode,androidstudio,git,github&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,xd,figma,vscode,androidstudio,git,github&theme=dark" alt="Tech Stack" />
 </p>
 
 ## 🌐 Connect with Me
